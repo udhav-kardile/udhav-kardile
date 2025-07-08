@@ -49,7 +49,7 @@ I'm a data enthusiast who loves combining traditional roots with modern tools. F
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/udhavk2309/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/udhavk2309/)
 - 📧 Email: udhavkardile7502@gmail.com
   
 ---
