@@ -1,6 +1,8 @@
 # 👋 Hey there, I'm Udhav Kardile!
 
 > 🎓 Post Graduate in Big Data Analytics (CDAC)
+> 🎓 Master's in Computer Applications (SPPU)
+> 🎓 Bachelor's of Science in Mathematics (SPPU)
 > <br>🚀 On a mission to turn data into decisions
 > <br>🌱 Always learning. Always building.
 
@@ -54,7 +56,7 @@ I'm a data enthusiast who loves combining traditional roots with modern tools. F
   
 ---
 
-> “Work hard in silence, let your data do the talking.”  
+> “Work hard in silence, let your data talk.”  
 > — Udhav Rameshwar Kardile
 
 ---
