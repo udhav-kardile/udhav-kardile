@@ -1,10 +1,12 @@
 # 👋 Hey there, I'm Udhav Kardile!
+> <br>🩸 Passionate Blood Donor(Being Human)
 
 > 🎓 Post Graduate in Big Data Analytics (CDAC)
 > <br>🎓 Master's in Computer Applications (SPPU)
 > <br>🎓 Bachelor's of Science in Mathematics (SPPU)
 > <br>🚀 On a mission to turn data into decisions
 > <br>🌱 Always learning. Always building.
+
 
 ---
 
@@ -13,9 +15,10 @@
 I'm a data enthusiast who loves combining traditional roots with modern tools. From Python scripts to Power BI dashboards, I build systems that **talk data, breathe insights**.
 
 💡 I believe in:  
+- KARMA
+- Contributing
 - Learning by doing  
 - Keeping things clean, real, and reusable  
-- KARMA
 
 ---
 
