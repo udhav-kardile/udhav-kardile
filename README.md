@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm Udhav Kardile!
 
 > 🎓 Post Graduate in Big Data Analytics (CDAC)
-> 🎓 Master's in Computer Applications (SPPU)
-> 🎓 Bachelor's of Science in Mathematics (SPPU)
+> <br>🎓 Master's in Computer Applications (SPPU)
+> <br>🎓 Bachelor's of Science in Mathematics (SPPU)
 > <br>🚀 On a mission to turn data into decisions
 > <br>🌱 Always learning. Always building.
 
