@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm a data enthusiast who loves combining traditional roots with modern tools. From Python scripts to Power BI dashboards, I build systems that **talk data, breathe insights**.
+I'm a data enthusiast who loves number crunching & combining traditional roots with modern tools. From Python scripts to Power BI dashboards, I build systems that **talk data, breathe insights**.
 
 💡 I believe in:  
 - KARMA
