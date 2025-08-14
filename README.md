@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/udhav-header-marquee.svg" alt="Hey there, I'm Udhav Kardile!" />
+  <img src="assets/udhav-header-typing.svg" alt="Hey there, I'm Udhav Kardile!" />
 </p>
 
 <br>🩸 Passionate Blood Donor(Being Human)
